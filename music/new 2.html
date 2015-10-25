@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<head>
+<title>changshi 1</title>
+
+</head>
+<body>
+<button  onclick=Play()  value=''>Play</button>
+<input  type='text' id='input' value='' onchange=Play()></input>
+<script>
+
+function Play(){
+ var playMusic=null;
+ var a= new Array();
+ var i=0;
+ var musicfile=document.getElementById('input').value+'.mp3';
+ playMusic=new Audio(musicfile);
+ playMusic.play();
+ document.getElementById('input').value='';
+
+}
+</script>
+</body>
+</html>
