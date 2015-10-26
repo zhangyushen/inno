@@ -91,7 +91,7 @@
             <li><a href="/inno/index.php/orimsc">原创音乐</a></li>
             <li><a href="/inno/index.php/digspace">数字空间</a></li>
             <li><a href="/inno/index.php/contest">创意竞赛</a></li>  
-            <li><a href="/inno/index.php/digdoctor">数字中医</a></li> 
+            <li><a href="/inno/index.php/digdoctor">数字推拿</a></li> 
             <li><a href="http://www.ourinnovate.com">学术交流</a></li>                     
          <!--   <li><a href="/inno/index.php/science">Tech &amp; Science</a></li>
 			-->
