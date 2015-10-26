@@ -25,7 +25,7 @@
 
 			}else{
 		 */
-			$query1 = $this->db->query("insert into user value('NULL','$username','$password','$email','$si_time')");
+			$query1 = $this->db->query("insert into user value(NULL,'$username','$password','$email','$si_time')");
 			return $query1;
 		
 	}
